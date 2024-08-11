@@ -25,6 +25,8 @@ Then click S3 and from here you can upload your manimest.json document to connec
 ![Capture2](https://github.com/user-attachments/assets/ce43e2b3-53ae-4c2f-acbb-274845c7e161)
 
 
+
+
 Drag the field "Brand" located on the left side of the page into the autograph in the middle. your dashboard should appear. 
 ![Capture3](https://github.com/user-attachments/assets/187a5fa0-0ebe-41bc-9c40-c527641a1c00)
 
