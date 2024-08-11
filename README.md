@@ -2,7 +2,6 @@
 My first project is analyzing data in an S3 with Quicksite.
 This project was done with the assistance of @techwithlucy youtube page
 
-## Architechture
 [U<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
   <diagram name="Page-1" id="J0tDQ4NyJroj48J-d18b">
     <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
