@@ -1,4 +1,4 @@
-# Quicksite
+# Visualization With Quicksite
 My first project is analyzing data in an S3 by creating dashboards with Amazon Quicksite.
 This project was done with the assistance of @techwithlucy youtube page
 
